@@ -1,4 +1,4 @@
-package main
+package keylogger
 
 // #include "Windows.h"
 import "C"
