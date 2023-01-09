@@ -3,7 +3,6 @@ package main
 // #include "Windows.h"
 import "C"
 import (
-	"fmt"
 	"log"
 	"unsafe"
 
